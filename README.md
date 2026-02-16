@@ -23,10 +23,10 @@ python-dotenv
 3.Once the description is generated,it allows the user to download the description.
 
 ## PROJECT DOCUMENTATION
-The link for the project documentation that has more information about this project : https://docs.google.com/document/d/1DkCX8Ejux4Odhm_keixsvAl89EqJtBqD-CzlAg7zynQ/edit?usp=sharing
-
+The link for the project documentation that has more information about this project : 
+https://drive.google.com/file/d/1dEqxAIe6RzOhkm67_-zDwKNG3SWCI8ic/view?usp=sharing
 ## DEMO VIDEO
-The link for the demo video of the project : https://drive.google.com/file/d/1uSIhLXuTRd06ItEd5Qh1cxO3FftmmduM/view?usp=drivesdk
+The link for the demo video of the project : https://drive.google.com/file/d/10l5jT9GGMeM4UUmOVSsrj8VZG-tQ1slN/view?usp=sharing
 
 
 
