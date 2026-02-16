@@ -25,7 +25,7 @@ def get_gemini_response(input_text, image_data, prompt):
 
 # --- Streamlit Page Settings ---
 st.set_page_config(
-    page_title="🏺 Gemini Artifact Insight AI",
+    page_title="🏺 Gemini Historical Artifact Description App",
     page_icon="🏺",
     layout="centered",
 )
@@ -137,7 +137,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # --- Header ---
-st.markdown('<div class="title">🏺 Gemini Artifact Insight AI</div>', unsafe_allow_html=True)
+st.markdown('<div class="title">🏺  Gemini Historical Artifact Description App AI</div>', unsafe_allow_html=True)
 
 # --- Sidebar Input Section ---
 with st.sidebar:
